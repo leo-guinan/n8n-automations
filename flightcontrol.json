@@ -30,7 +30,7 @@
                         "N8N_HOST": "n8n.ideanexusventures.com",
                         "N8N_PROTOCOL": "https",
                         "DB_TYPE": "postgresdb",
-                        "DB_POSTGRESDB_DATABASE": "n8n",
+                        "DB_POSTGRESDB_DATABASE": "postgres",
                         "N8N_PORT": 3000,
                         "DB_POSTGRESDB_HOST": {
                             "fromService": {
