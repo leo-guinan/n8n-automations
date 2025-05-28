@@ -55,13 +55,7 @@
                                 "value": "password"
                             }
                         },
-                        "DB_POSTGRESDB_SSL_ENABLED": "true",
-                        "DOCKER_USERNAME": {
-                            "fromParameterStore": "docker.hub.username"
-                        },
-                        "DOCKER_PASSWORD": {
-                            "fromParameterStore": "docker.hub.password"
-                        }
+                        "DB_POSTGRESDB_SSL_ENABLED": "true"
                     }
                 },
                 {
