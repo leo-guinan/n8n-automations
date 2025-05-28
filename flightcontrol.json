@@ -31,6 +31,7 @@
                         "N8N_PROTOCOL": "https",
                         "DB_TYPE": "postgresdb",
                         "DB_POSTGRESDB_DATABASE": "n8n",
+                        "N8N_PORT": 3000,
                         "DB_POSTGRESDB_HOST": {
                             "fromService": {
                                 "id": "db",
