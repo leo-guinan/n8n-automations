@@ -1,0 +1,1 @@
+This is a repo for the n8n server that runs the Idea Nexus Ventures automations.
