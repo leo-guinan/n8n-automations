@@ -34,7 +34,7 @@
                         "DB_POSTGRESDB_HOST": {
                             "fromService": {
                                 "id": "db",
-                                "value": "address"
+                                "value": "host"
                             }
                         },
                         "DB_POSTGRESDB_PORT": {
@@ -69,7 +69,7 @@
                     "name": "Postgres",
                     "type": "rds",
                     "engine": "postgres",
-                    "engineVersion": "15",
+                    "engineVersion": "16",
                     "instanceSize": "db.t4g.micro",
                     "storage": 20,
                     "private": true,
