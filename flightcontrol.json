@@ -70,6 +70,18 @@
                     "private": true,
                     "backupRetentionPeriodInDays": 7,
                     "deletionProtection": true
+                },
+                {
+                    "id": "appdatadb",
+                    "name": "Appdata Postgres",
+                    "type": "rds",
+                    "engine": "postgres",
+                    "engineVersion": "16",
+                    "instanceSize": "db.t4g.micro",
+                    "storage": 20,
+                    "private": true,
+                    "backupRetentionPeriodInDays": 7,
+                    "deletionProtection": true
                 }
             ]
         }
