@@ -79,7 +79,7 @@
                     "engineVersion": "16",
                     "instanceSize": "db.t4g.micro",
                     "storage": 20,
-                    "private": true,
+                    "private": false,
                     "backupRetentionPeriodInDays": 7,
                     "deletionProtection": true
                 }
